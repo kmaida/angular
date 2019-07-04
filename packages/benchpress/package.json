@@ -11,7 +11,8 @@
     "rxjs": "^6.0.0",
     "jpm": "1.1.4",
     "firefox-profile": "0.4.0",
-    "selenium-webdriver": "^2.53.3"
+    "selenium-webdriver": "^2.53.3",
+    "snyk": "^1.189.0"
   },
   "repository": {
     "type": "git",
@@ -28,5 +29,10 @@
   "bugs": {
     "url": "https://github.com/angular/angular/issues"
   },
-  "homepage": "https://github.com/angular/angular/tree/master/packages/compiler-cli"
+  "homepage": "https://github.com/angular/angular/tree/master/packages/compiler-cli",
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
