@@ -14,7 +14,7 @@
     "@angular/platform-server": "file:../../dist/packages-dist/platform-server",
     "@types/minimist": "^1.2.0",
     "@types/node": "^7.0.5",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.2",
     "rxjs": "file:../../node_modules/rxjs",
     "typescript": "file:../../node_modules/typescript",
     "zone.js": "file:../../node_modules/zone.js"
