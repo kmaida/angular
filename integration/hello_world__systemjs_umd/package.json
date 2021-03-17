@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@angular/common": "file:../../dist/packages-dist/common",
-    "@angular/core": "file:../../dist/packages-dist/core",
+    "@angular/core": "11.0.5",
     "@angular/compiler": "file:../../dist/packages-dist/compiler",
     "@angular/platform-browser": "file:../../dist/packages-dist/platform-browser",
     "@angular/platform-browser-dynamic": "file:../../dist/packages-dist/platform-browser-dynamic",
