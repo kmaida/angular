@@ -52,6 +52,11 @@
     "@angular-devkit/schematics" "0.5.4"
     typescript "~2.6.2"
 
+"@snyk/protect@^1.1207.0":
+  version "1.1207.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1207.0.tgz#1fa34a07987100b43faf94e04aaaaf528b14a437"
+  integrity sha512-ghRa5S8aH8z9I3WGbl4/ISqkNUOmiNLG1XWkN7SyCsd1UZmY0WZDiKMLU1ZQrPQQdrCPyC+jwpRkKwDdfFLVqw==
+
 "@types/angularjs@1.5.14-alpha":
   version "1.5.14-alpha"
   resolved "https://registry.yarnpkg.com/@types/angularjs/-/angularjs-1.5.14-alpha.tgz#2add80c88e1d84ade07e042918843093b6ac9808"
