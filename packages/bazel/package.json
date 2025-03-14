@@ -8,7 +8,7 @@
     "@bazel/typescript": "^0.11.1",
     "@types/node": "6.0.84",
     "@types/shelljs": "0.7.7",
-    "shelljs": "0.7.8",
+    "shelljs": "0.9.0",
     "protobufjs": "5.0.0"
   },
   "peerDependencies": {
